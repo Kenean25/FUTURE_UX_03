@@ -88,6 +88,7 @@ Example workflow:
 This allows agencies to manage their entire client lifecycle in one platform.
 
 ## 6. User Pain Points
+
 | Pain Point                         | Impact                              |
 | ---------------------------------- | ----------------------------------- |
 | Client data stored in spreadsheets | Hard to manage and update           |
@@ -108,3 +109,33 @@ Efficient – Reduces time spent managing clients
 Scalable – Works for growing agencies
 
 Insightful – Provides quick data overview
+
+## 8. Core Features
+
+#### 1. Lead Management
+
+Track new leads and monitor their progress through different stages.
+
+Pipeline stages:
+
+ ✔ New Lead
+ 
+ ✔ Contacted
+ 
+ ✔ Proposal Sent
+ 
+ ✔ Converted Client
+
+#### 2. Client Management
+
+Store important client information such as:
+
+ ✔ Contact details
+
+ ✔ Company information
+
+ ✔ Communication history
+
+ ✔ Service type
+
+ 

@@ -176,3 +176,16 @@ Insightful – Provides quick data overview
     </td>
   </tr>
 </table>
+
+### 🖼️ Design Tool
+
+    #### Figma 
+ 
+
+
+ ## 🔗 Figma Design File
+
+View the full interactive design here:
+
+[Open Figma File](https://www.figma.com/design/9V7exFnO11HnkkKuBlvASj/Untitled?node-id=0-1&t=Vfvd41NG372PIqJQ-1)
+

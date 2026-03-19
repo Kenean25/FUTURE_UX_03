@@ -1,5 +1,6 @@
 # FUTURE_UX_03
-CRM dashboard for a 5-member digital agency managing 30+ clients.
+#### CRM dashboard for a 5-member digital agency managing 30+ clients.
+
 
 ### 1. Project Overview
 
@@ -69,7 +70,7 @@ Small agency teams such as:
 
   ✔ Prefer visual dashboards instead of spreadsheets
 
-## 5. Real-World Scenario
+### 5. Real-World Scenario
 
 This CRM system is designed for a 5–10 member digital agency managing around 30+ clients.
 
@@ -87,7 +88,7 @@ Example workflow:
 
 This allows agencies to manage their entire client lifecycle in one platform.
 
-## 6. User Pain Points
+### 6. User Pain Points
 
 | Pain Point                         | Impact                              |
 | ---------------------------------- | ----------------------------------- |
@@ -96,7 +97,7 @@ This allows agencies to manage their entire client lifecycle in one platform.
 | No clear pipeline tracking         | Difficult to monitor sales progress |
 | Too many communication tools       | Workflow becomes messy              |
 
-## 7. Design Goals
+### 7. Design Goals
 
 The design focuses on solving these problems by creating a dashboard that is:
 
@@ -111,7 +112,7 @@ Scalable – Works for growing agencies
 Insightful – Provides quick data overview
 
 
-## 8. Key Screens Designed
+### 8. Key Screens Designed
 
    1.CRM Dashboard
    
@@ -122,9 +123,56 @@ Insightful – Provides quick data overview
    4.Client Profile Page
    
    5.Task & Follow-up Manager
-
-
-   ### Design Screenshots
-
    
+
+ ### Design Screenshots
+
+ #### Dashboard, Leads, Clients, Task and Analytics Page
+   <table>
+ <tr>
+    <td valign="top">
+      <img src="Dashboard.png" width="600"/>
+    </td>
+    <td valign="top">
+      <img src="Leads.png" width="600"/>
+    </td>
+  </tr>
+</table>
+<table>
+ <tr>
+    <td valign="top">
+      <img src="Clients-list.png" width="600"/>
+    </td>
+    <td valign="top">
+      <img src="Task.png" width="600"/>
+    </td>
+    </td>
+    <td valign="top">
+      <img src="Analytics.png" width="600"/>
+    </td>
+  </tr>
+</table>
    
+ #### Clients-profile, active-clients, clients-onboarding and inactive-clients Page
+ 
+ <table>
+ <tr>
+    <td valign="top">
+      <img src="Clients-profile.png" width="600"/>
+    </td>
+    <td valign="top">
+      <img src="active-clients.png" width="600"/>
+    </td>
+  </tr>
+</table>
+
+<table>
+ <tr>
+    <td valign="top">
+      <img src="clients-onboarding.png" width="800"/>
+    </td>
+    <td valign="top">
+      <img src="inactive-clients.png" width="800"/>
+    </td>
+  </tr>
+</table>

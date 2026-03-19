@@ -110,32 +110,21 @@ Scalable – Works for growing agencies
 
 Insightful – Provides quick data overview
 
-## 8. Core Features
 
-#### 1. Lead Management
+## 8. Key Screens Designed
 
-Track new leads and monitor their progress through different stages.
+   1.CRM Dashboard
+   
+   2.Lead Pipeline
+   
+   3.Client List
+   
+   4.Client Profile Page
+   
+   5.Task & Follow-up Manager
 
-Pipeline stages:
 
- ✔ New Lead
- 
- ✔ Contacted
- 
- ✔ Proposal Sent
- 
- ✔ Converted Client
+   ### Design Screenshots
 
-#### 2. Client Management
-
-Store important client information such as:
-
- ✔ Contact details
-
- ✔ Company information
-
- ✔ Communication history
-
- ✔ Service type
-
- 
+   
+   

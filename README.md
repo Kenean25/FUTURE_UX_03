@@ -1,16 +1,14 @@
-# FUTURE_UX_03
-#### CRM dashboard for a 5-member digital agency managing 30+ clients.
+## FUTURE_UX_03
+### CRM dashboard for a 5-member digital agency managing 30+ clients.
 
 
-### 1. Project Overview
+###  Project Overview
 
-This project focuses on designing a web-based CRM (Client Relationship Management) dashboard for small agencies to manage clients, track leads, and organize follow-ups efficiently.
-
-Many small agencies still manage their clients using spreadsheets, messages, and basic tools. This creates problems such as missed follow-ups, disorganized data, and poor client management.
+This project focuses on designing a web-based CRM (Client Relationship Management) dashboard for small agencies to manage clients, track leads, and organize follow-ups efficiently.Many small agencies still manage their clients using spreadsheets, messages, and basic tools. This creates problems such as missed follow-ups, disorganized data, and poor client management.
 
 The goal of this project is to design a clear, scalable, and easy-to-use CRM dashboard that helps teams manage clients and leads in one plac
 
-### 2. Problem Statement
+### 1. Problem Statement
 
 Small agencies often face these challenges:
 
@@ -28,7 +26,7 @@ Because of these issues, agencies lose productivity and sometimes even potential
 
 A centralized CRM dashboard can help solve these problems.
 
-### 3. Objective
+### 2. Objective
 
 The objective of this project is to design a modern CRM dashboard interface that allows users to:
 
@@ -44,7 +42,7 @@ The objective of this project is to design a modern CRM dashboard interface that
 
 The design focuses on clarity, usability, and efficiency for daily business operations.
 
-### 4. Target Users
+### 3. Target Users
 
 #### Primary Users
 
@@ -70,7 +68,7 @@ Small agency teams such as:
 
   ✔ Prefer visual dashboards instead of spreadsheets
 
-### 5. Real-World Scenario
+### 4. Real-World Scenario
 
 This CRM system is designed for a 5–10 member digital agency managing around 30+ clients.
 
@@ -88,7 +86,7 @@ Example workflow:
 
 This allows agencies to manage their entire client lifecycle in one platform.
 
-### 6. User Pain Points
+### 5. User Pain Points
 
 | Pain Point                         | Impact                              |
 | ---------------------------------- | ----------------------------------- |
@@ -97,7 +95,7 @@ This allows agencies to manage their entire client lifecycle in one platform.
 | No clear pipeline tracking         | Difficult to monitor sales progress |
 | Too many communication tools       | Workflow becomes messy              |
 
-### 7. Design Goals
+### 6. Design Goals
 
 The design focuses on solving these problems by creating a dashboard that is:
 
@@ -112,7 +110,7 @@ Scalable – Works for growing agencies
 Insightful – Provides quick data overview
 
 
-### 8. Key Screens Designed
+### 7. Key Screens Designed
 
    1.CRM Dashboard
    
@@ -179,11 +177,11 @@ Insightful – Provides quick data overview
 
 ### 🖼️ Design Tool
 
-    #### Figma 
+  #### Figma 
  
 
 
- ## 🔗 Figma Design File
+ ### 🔗 Figma Design File
 
 View the full interactive design here:
 
